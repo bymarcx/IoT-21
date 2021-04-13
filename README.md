@@ -7,4 +7,4 @@ Repo for The Fundamentals of IoT :: Marc Eberhard :: SS-21
 
 ## Task 04
 <a href="task04_konzept/use-case">Use-Case-Diagram</a>
-<br/><a href="https://xd.adobe.com/embed/559346ce-1a0a-4975-8d72-8ea342445b6c-00c0/">Schild und Interface Prototype</a>
+<br/><a href="https://xd.adobe.com/view/559346ce-1a0a-4975-8d72-8ea342445b6c-00c0/">Schild und Interface Prototype</a>
