@@ -11,3 +11,8 @@ Repo for The Fundamentals of IoT :: Marc Eberhard :: SS-21
 
 ## Task 05
 <a href="task05_konzept-bauplan/bauplan">Konzept - Bauplan</a>
+
+## Task 06
+<a href="task06_durchstich/Technischer_Durchstich.pdf">Technischer Durchstich - Temperatur</a>
+<br><a href="task06_durchstich/Temp-7Seg">Code</a>
+
